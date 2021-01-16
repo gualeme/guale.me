@@ -1,1 +1,2 @@
-# guale.me
+- [关于](about.md)
+

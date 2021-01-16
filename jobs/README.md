@@ -1,0 +1,8 @@
+- 虾皮
+    - [新加坡-所有岗位](jobs/shopee/all.md)
+- 美团
+    - [北京-AI平台](jobs/meituan/ai-platform.md)
+- 阿里
+- 腾讯
+- 百度
+- 其他
