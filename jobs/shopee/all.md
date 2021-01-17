@@ -4,7 +4,7 @@
 
 简历可以通过以下途径给我：
 
-* 邮箱: aarongualeme@gmail.com
+* 邮箱: yupeng.xu@shopee.com
 * 微信: xuyupeng19901027
 
 <img src="/pic/wxqr.jpeg" data-origin="pic/wxqr.jpeg">
